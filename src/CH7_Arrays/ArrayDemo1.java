@@ -1,3 +1,5 @@
+package CH7_Arrays;
+
 import java.util.Scanner;
 
 public class ArrayDemo1 {
