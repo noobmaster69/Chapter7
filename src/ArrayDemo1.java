@@ -28,5 +28,6 @@ public class ArrayDemo1 {
         System.out.println(hours[0]);
         System.out.println(hours[1]);
         System.out.println(hours[2]);
+        //test
     }
 }
